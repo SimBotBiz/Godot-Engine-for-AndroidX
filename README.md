@@ -66,3 +66,5 @@ This repo is only a collection of submodules that links to specific branches in
 - Official documentation:
 [https://docs.godotengine.org/en/3.1/development/compiling/index.html](https://docs.godotengine.org/en/3.1/development/compiling/index.html)
 
+# Is my work useful for you?
+[![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBKKYKG3X6AEU)
