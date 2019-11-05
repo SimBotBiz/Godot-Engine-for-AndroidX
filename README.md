@@ -1,6 +1,6 @@
 # Godot Engine for AndroidX
 
-Modifications to Godot Engine to make it compatibile with AndroidX (SDK API 28+)
+Modifications to Godot Engine to make it compatible with AndroidX (SDK API 28+)
 
 This repo is only a collection of submodules that links to specific branches in
 [https://github.com/SimBotBiz/godot](https://github.com/SimBotBiz/godot)
@@ -8,7 +8,7 @@ This repo is only a collection of submodules that links to specific branches in
 ## Why this mod exists?
 
 - You want to write some Godot Android module that is based upon the latest API (28+)
-- You are that kind of delevoper who likes to live on the bleeding edge of code releses
+- You are that kind of developer who likes to live on the bleeding edge of code releases
 
 ## How-to compile custom Android export templates (Windows)
 
@@ -29,7 +29,7 @@ This repo is only a collection of submodules that links to specific branches in
     ```cmd
     cd godot-3.1.1-stable-adxmod
     ```
-    or unzip the file you donwloaded
+    or unzip the file you downloaded
 
 4. Configure the env and install needed packages,  
     Godot use a python based build system (SCons), I like to use pipenv to isolate my python projects and dependencies, so I'll use that!    
@@ -59,12 +59,14 @@ This repo is only a collection of submodules that links to specific branches in
     .\gradlew build
     ```
 
-6. *android_release.apk* and *android_debug.apk* should be in your `bin/` folder
+6. *android_release.apk* and *android_debug.apk* should be in your `bin\` folder
 
 
 ## Do you want to know more?
+
 - Official documentation:
 [https://docs.godotengine.org/en/3.1/development/compiling/index.html](https://docs.godotengine.org/en/3.1/development/compiling/index.html)
 
 ## Is my work useful for you?
+
 [![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBKKYKG3X6AEU)
