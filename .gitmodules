@@ -1,4 +1,8 @@
 [submodule "godot-3.1.1-stable-adxmod"]
 	path = godot-3.1.1-stable-adxmod
-	url = https://github.com/SimBotBiz/godot.git
+	url = git@github.com:SimBotBiz/godot.git
 	branch = 3.1.1-stable-adxmod
+[submodule "godot-3.1.2-stable-adxmod"]
+	path = godot-3.1.2-stable-adxmod
+	url = git@github.com:SimBotBiz/godot.git
+	branch = 3.1.2-stable-adxmod
